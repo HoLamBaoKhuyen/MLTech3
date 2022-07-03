@@ -1,89 +1,85 @@
 {
-    "GET_suitable_jobs": [
-        {
-            "id": 21,
-            "image": "images/suitable_choice/testimg_81.png",
-            "job_name": "job name 81",
-            "salary": 5000,
-            "group_question_id": 3
-        },
-        {
-            "id": 22,
-            "image": "images/suitable_choice/testimg_82.png",
-            "job_name": "job name 82",
-            "salary": 5000,
-            "group_question_id": 3
-        }
-    ]
-},
-{
-    "GET_suitable_courses": [
-        {
-            "id": 21,
-            "image": "images/suitable_choice/testimg_201.png",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo... 201",
-            "title": "Course 201",
-            "rating": 4.5,
-            "num_rate": 723,
-            "num_participate": 1234,
-            "num_video": 40,
-            "group_question_id": 3
-        },
-        {
-            "id": 22,
-            "image": "images/suitable_choice/testimg_202.png",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo... 202",
-            "title": "Course 202",
-            "rating": 4.5,
-            "num_rate": 723,
-            "num_participate": 1234,
-            "num_video": 40,
-            "group_question_id": 3
-        },
-        {
-            "id": 23,
-            "image": "images/suitable_choice/testimg_203.png",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo... 203",
-            "title": "Course 203",
-            "rating": 4.5,
-            "num_rate": 723,
-            "num_participate": 1234,
-            "num_video": 40,
-            "group_question_id": 3
-        }
-    ]
-},
-{
-    "GET_suitable_events": [
-        {
-            "id": 21,
-            "image": "images/suitable_choice/testimg_21.png",
-            "is_liked": 0,
-            "title": "Hướng nghiệp bền vừng trong ...... ",
-            "people_concern": 123,
-            "tag": "Xã hội . Hướng nghiệp",
-            "time": "2022-06-23 07:51:08",
-            "group_question_id": 3
-        },
-        {
-            "id": 22,
-            "image": "images/suitable_choice/testimg_22.png",
-            "is_liked": 0,
-            "title": "Hướng nghiệp bền vừng trong ...... ",
-            "people_concern": 123,
-            "tag": "Xã hội . Hướng nghiệp",
-            "time": "2022-06-23 07:51:08",
-            "group_question_id": 3
-        },
-        {
-            "id": 23,
-            "image": "images/suitable_choice/testimg_23.png",
-            "is_liked": 0,
-            "title": "Hướng nghiệp bền vừng trong ...... ",
-            "people_concern": 123,
-            "tag": "Xã hội . Hướng nghiệp",
-            "time": "2022-06-23 07:51:08",
-            "group_question_id": 3
-        }
-    ]
+  "GET_suitable_jobs": [
+    {
+      "id": 21,
+      "image": "images/suitable_choice/testimg_81.png",
+      "job_name": "job name 81",
+      "salary": 5000,
+      "group_question_id": 3
+    },
+    {
+      "id": 22,
+      "image": "images/suitable_choice/testimg_82.png",
+      "job_name": "job name 82",
+      "salary": 5000,
+      "group_question_id": 3
+    }
+  ],
+  "GET_suitable_courses": [
+    {
+      "id": 21,
+      "image": "images/suitable_choice/testimg_201.png",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo... 201",
+      "title": "Course 201",
+      "rating": 4.5,
+      "num_rate": 723,
+      "num_participate": 1234,
+      "num_video": 40,
+      "group_question_id": 3
+    },
+    {
+      "id": 22,
+      "image": "images/suitable_choice/testimg_202.png",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo... 202",
+      "title": "Course 202",
+      "rating": 4.5,
+      "num_rate": 723,
+      "num_participate": 1234,
+      "num_video": 40,
+      "group_question_id": 3
+    },
+    {
+      "id": 23,
+      "image": "images/suitable_choice/testimg_203.png",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo... 203",
+      "title": "Course 203",
+      "rating": 4.5,
+      "num_rate": 723,
+      "num_participate": 1234,
+      "num_video": 40,
+      "group_question_id": 3
+    }
+  ],
+  "GET_suitable_events": [
+    {
+      "id": 21,
+      "image": "images/suitable_choice/testimg_21.png",
+      "is_liked": 0,
+      "title": "Hướng nghiệp bền vừng trong ...... ",
+      "people_concern": 123,
+      "tag": "Xã hội . Hướng nghiệp",
+      "time": "2022-06-23 07:51:08",
+      "group_question_id": 3
+    },
+    {
+      "id": 22,
+      "image": "images/suitable_choice/testimg_22.png",
+      "is_liked": 0,
+      "title": "Hướng nghiệp bền vừng trong ...... ",
+      "people_concern": 123,
+      "tag": "Xã hội . Hướng nghiệp",
+      "time": "2022-06-23 07:51:08",
+      "group_question_id": 3
+    },
+    {
+      "id": 23,
+      "image": "images/suitable_choice/testimg_23.png",
+      "is_liked": 0,
+      "title": "Hướng nghiệp bền vừng trong ...... ",
+      "people_concern": 123,
+      "tag": "Xã hội . Hướng nghiệp",
+      "time": "2022-06-23 07:51:08",
+      "group_question_id": 3
+    }
+  ]
 }
