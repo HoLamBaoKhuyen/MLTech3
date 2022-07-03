@@ -1,5 +1,6 @@
 {
-  "GET_suitable_jobs": [
+  "GET_suitable_jobs": 
+  "data": [
     {
       "id": 21,
       "image": "images/suitable_choice/testimg_81.png",
@@ -15,7 +16,8 @@
       "group_question_id": 3
     }
   ],
-  "GET_suitable_courses": [
+  "GET_suitable_courses": 
+  "data": [
     {
       "id": 21,
       "image": "images/suitable_choice/testimg_201.png",
@@ -50,7 +52,8 @@
       "group_question_id": 3
     }
   ],
-  "GET_suitable_events": [
+  "GET_suitable_events": 
+  "data": [
     {
       "id": 21,
       "image": "images/suitable_choice/testimg_21.png",
